@@ -1,0 +1,25 @@
+install all python libraries :
+
+
+
+
+python -m pip install -–upgrade pip
+
+pip install numpy
+
+pip install opencv-contrib-python-headless
+
+python
+import cv2
+cv2.__version__
+
+pip install --upgrade tensorflow
+
+python
+import tensorflow as tf
+
+pip install imutils
+
+pip install face-mask-detector
+
+pip install streamlit_webrtc
