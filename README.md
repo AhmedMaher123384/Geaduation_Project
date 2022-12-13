@@ -1,7 +1,5 @@
-                                                          Geaduation_Project
-                                                          
-                                                          
-                                                         face mask detection
+Graduation_Project
+face mask detection
  
  
  
